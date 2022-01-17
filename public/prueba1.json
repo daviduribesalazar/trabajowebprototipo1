@@ -1,0 +1,23 @@
+[{
+    "id": 1,
+    "autor": "Japón",
+    "textopais": "Es un título de la página", 
+    "receta1":[{
+        "Titulo": "Gyozas",
+        "Preparación": "Es un título de la página",
+        "Ingredientes": "Es un título de la página",
+        "srcimg": "https://picsum.photos/1024/480?random=2/"
+    
+    }
+    ],
+    "receta2":[{
+        "Titulo": "Gyozas",
+        "Preparación": "Es un título de la página",
+        "Ingredientes": "Es un título de la página",
+        "srcimg": "https://picsum.photos/1024/480?random=2/"
+    
+    }
+    ]
+
+}
+]

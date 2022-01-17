@@ -1,0 +1,100 @@
+[{
+        "id": 1,
+        "autor": "Japón",
+        "titulo": "Es un título de la página",
+        "srcimg": "../assets/plats.png",
+        "alt": "Texto alternativo de la imágen",
+        "texto": "Instrucciones: Aquí has de poner un texto descriptivo del proyecto. La imágen de cabecera debe tener una resolución de (1024/480 px)",
+        "url": "receta1"
+    },
+    {
+        "id": 2,
+        "autor": "Japón",
+        "titulo": "Título del proyecto",
+        "srcimg": "https://picsum.photos/1024/480?random=2/",
+        "alt": "Descripción de la imágen",
+        "texto": "Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto. Aquí has de poner un texto descriptivo del proyecto",
+        "url": "http://www.google.com"
+    },
+    {
+        "id": 3,
+        "autor": "Nombre alumno",
+        "titulo": "Título del proyecto",
+        "srcimg": "https://picsum.photos/1024/480?random=3/",
+        "alt": "Descripción de la imágen",
+        "texto": "Aquí has de poner un texto descriptivo del proyecto",
+        "url": "http://www.google.com"
+    },
+    {
+        "id": 4,
+        "autor": "Nombre alumno",
+        "titulo": "Título del proyecto",
+        "srcimg": "https://picsum.photos/1024/480?random=4/",
+        "alt": "Descripción de la imágen",
+        "texto": "Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto. ",
+        "url": "http://www.google.com"
+    },
+    {
+        "id": 5,
+        "autor": "Nombre alumno",
+        "titulo": "Título del proyecto",
+        "srcimg": "https://picsum.photos/1024/480?random=5/",
+        "alt": "Descripción de la imágen",
+        "texto": "Aquí has de poner un texto descriptivo del proyecto",
+        "url": "http://www.google.com"
+    },
+    {
+        "id": 6,
+        "autor": "Nombre alumno",
+        "titulo": "Título del proyecto",
+        "srcimg": "https://picsum.photos/1024/480?random=6/",
+        "alt": "Descripción de la imágen",
+        "texto": "Aquí has de poner un texto descriptivo del proyecto",
+        "url": "http://www.google.com"
+    }, {
+        "id": 7,
+        "autor": "Japón",
+        "titulo": "Título del proyecto",
+        "srcimg": "https://picsum.photos/1024/480?random=2/",
+        "alt": "Descripción de la imágen",
+        "texto": "Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto. Aquí has de poner un texto descriptivo del proyecto",
+        "url": "http://www.google.com"
+    },
+    {
+        "id": 8,
+        "autor": "Nombre alumno",
+        "titulo": "Título del proyecto",
+        "srcimg": "https://picsum.photos/1024/480?random=3/",
+        "alt": "Descripción de la imágen",
+        "texto": "Aquí has de poner un texto descriptivo del proyecto",
+        "url": "http://www.google.com"
+    },
+    {
+        "id": 9,
+        "autor": "Nombre alumno",
+        "titulo": "Título del proyecto",
+        "srcimg": "https://picsum.photos/1024/480?random=4/",
+        "alt": "Descripción de la imágen",
+        "texto": "Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto. ",
+        "url": "http://www.google.com"
+    },
+    {
+        "id": 10,
+        "autor": "Nombre alumno",
+        "titulo": "Título del proyecto",
+        "srcimg": "https://picsum.photos/1024/480?random=5/",
+        "alt": "Descripción de la imágen",
+        "texto": "Aquí has de poner un texto descriptivo del proyecto",
+        "url": "http://www.google.com"
+    },
+    {
+        "id": 11,
+        "autor": "Nombre alumno",
+        "titulo": "Título del proyecto",
+        "srcimg": "https://picsum.photos/1024/480?random=6/",
+        "alt": "Descripción de la imágen",
+        "texto": "Aquí has de poner un texto descriptivo del proyecto",
+        "url": "http://www.google.com"
+    }
+
+]
